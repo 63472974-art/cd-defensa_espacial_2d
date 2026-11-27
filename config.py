@@ -18,16 +18,16 @@ AMARILLO = (255, 220, 65)
 GRIS = (135, 145, 165)
 
 # Características de la nave.
-VELOCIDAD_NAVE = 350
+VELOCIDAD_NAVE = 450
 
 # Características de los disparos.
 VELOCIDAD_DISPARO = 570
 INTERVALO_DISPARO = 220  # Milisegundos.
 
 # Características iniciales de los meteoritos.
-INTERVALO_METEORITO = 750  # Milisegundos.
+INTERVALO_METEORITO = 500  # Milisegundos.
 VELOCIDAD_METEORITO_MIN = 130
 VELOCIDAD_METEORITO_MAX = 220
 
 # Puntuación por meteorito destruido.
-PUNTOS_METEORITO = 10
+PUNTOS_METEORITO = 15
